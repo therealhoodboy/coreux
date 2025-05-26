@@ -1,0 +1,32 @@
+Package: com.0xkuj.notificationsgroupcount
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: 0xkuj
+Installed-Size: 420
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.0xkuj.notificationsgroupcount_1.0.6_iphoneos-arm.deb
+Size: 27098
+MD5sum: 57dce315f3acce16850979f60a67b322
+SHA1: b8a3991f8a8bb3b5e2f0efc1ac5468678a2cffa7
+SHA256: 67337993edbb8c50b4342b6aaca000e42dd65b65064fb0e10fca6d840ae15267
+Section: Tweaks
+Description: Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Name: NotificationsGroupCount
+
+Package: com.dvntm.oledkeyboard
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.oledkeyboard_0.0.3_iphoneos-arm.deb
+Size: 4530
+MD5sum: 3b48db14357f054369caed3c57fde697
+SHA1: af678df201e327fac34454c3b0fad1f61240364c
+SHA256: 8ebbe962771ad26d781f0dc42eea464148c7156b184dc9b7280ef7a3e6e40ff5
+Section: Tweaks
+Description: OLED Dark Mode for iOS System Keyboard
+Author: dvntm
+Name: OledKeyboard
+
