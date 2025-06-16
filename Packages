@@ -14,6 +14,22 @@ Description: Count those notifications inside Apple notifications grouping!
 Author: 0xkuj
 Name: NotificationsGroupCount
 
+Package: com.dvntm.cc18
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Filename: ./debs/com.dvntm.cc18_0.0.2_iphoneos-arm.deb
+Size: 4450
+MD5sum: f0902e8e008d2409413844aa54026fe4
+SHA1: 57372aaa58c0ef8df20247a7184df23e89e2bd38
+SHA256: ae3b8fe2b5bc55212ac985f5c35cf537f48de372c01a8aa5c1721390bb166f62
+Section: Tweaks
+Description: Round CC modules replication, like in iOS 18
+Author: dvntm
+Name: CC18
+
 Package: com.dvntm.oledkeyboard
 Version: 0.0.3
 Architecture: iphoneos-arm
