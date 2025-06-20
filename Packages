@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: 0xkuj
 Installed-Size: 420
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.0xkuj.notificationsgroupcount_1.0.6_iphoneos-arm.deb
+Filename: ./com.0xkuj.notificationsgroupcount_1.0.6_iphoneos-arm.deb
 Size: 27098
 MD5sum: 57dce315f3acce16850979f60a67b322
 SHA1: b8a3991f8a8bb3b5e2f0efc1ac5468678a2cffa7
@@ -14,13 +14,30 @@ Description: Count those notifications inside Apple notifications grouping!
 Author: 0xkuj
 Name: NotificationsGroupCount
 
+Package: com.cureux.cc26
+Version: 0.1.3b
+Architecture: iphoneos-arm
+Maintainer: therealhoodboy
+Installed-Size: 164
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Conflicts: CC18
+Filename: ./com.cureux.cc26_0.1.3b_iphoneos-arm.deb
+Size: 9802
+MD5sum: 0b174478313533c5c87ccd8b06a647d9
+SHA1: 530a7df06b90f5987136e5ba189bd358f03127d9
+SHA256: 475661477ff18eb5905db2c64a36f4fe9972db6a00ee2fd98e5a1579a73fb43d
+Section: Tweaks
+Description: Reimagines the Control Center with iOS 18-style round modules, elegant shadows, and smooth, glass-like depth. Fast and fluid.
+Author: therealhoodboy
+Name: CC26
+
 Package: com.dvntm.cc18
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
-Filename: ./debs/com.dvntm.cc18_0.0.2_iphoneos-arm.deb
+Filename: ./com.dvntm.cc18_0.0.2_iphoneos-arm.deb
 Size: 4450
 MD5sum: f0902e8e008d2409413844aa54026fe4
 SHA1: 57372aaa58c0ef8df20247a7184df23e89e2bd38
@@ -36,7 +53,7 @@ Architecture: iphoneos-arm
 Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.dvntm.oledkeyboard_0.0.3_iphoneos-arm.deb
+Filename: ./com.dvntm.oledkeyboard_0.0.3_iphoneos-arm.deb
 Size: 4530
 MD5sum: 3b48db14357f054369caed3c57fde697
 SHA1: af678df201e327fac34454c3b0fad1f61240364c
