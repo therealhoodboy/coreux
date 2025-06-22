@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: 0xkuj
 Installed-Size: 420
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./com.0xkuj.notificationsgroupcount_1.0.6_iphoneos-arm.deb
+Filename: ./debs/com.0xkuj.notificationsgroupcount_1.0.6_iphoneos-arm.deb
 Size: 27098
 MD5sum: 57dce315f3acce16850979f60a67b322
 SHA1: b8a3991f8a8bb3b5e2f0efc1ac5468678a2cffa7
@@ -16,36 +16,57 @@ Name: NotificationsGroupCount
 
 Package: com.cureux.cc26
 Version: 0.1.3b
-Architecture: iphoneos-arm
-Maintainer: therealhoodboy
-Installed-Size: 164
-Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
-Conflicts: CC18
-Filename: ./com.cureux.cc26_0.1.3b_iphoneos-arm.deb
-Size: 9802
-MD5sum: 0b174478313533c5c87ccd8b06a647d9
-SHA1: 530a7df06b90f5987136e5ba189bd358f03127d9
-SHA256: 475661477ff18eb5905db2c64a36f4fe9972db6a00ee2fd98e5a1579a73fb43d
+Architecture: iphoneos-arm64
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_0.1.3b_iphoneos-arm64.deb
+Size: 8338
+MD5sum: af1dd80d6522d22d4969731f9fdbf335
+SHA1: 237c9e33537fe8a9bd33d9ab77f2e91cc8b8e004
+SHA256: dc4df1b455a70e597e3a1b83a4143bb45e2c39fb5b12842ad84e5bfd9355d7a6
 Section: Tweaks
-Description: Reimagines the Control Center with iOS 18-style round modules, elegant shadows, and smooth, glass-like depth. Fast and fluid.
+Description: A sleek reimagination of Control Center
+ A sleek reimagination of Control Center – inspired by the refined aesthetics of iOS 26.
+ Rounded modules. Subtle depth. Effortlessly fluid.
+ **Beta Notice**
+ CC26 is currently in early beta. It was designed for and developed on iPhone X.
+ Some visual issues may occur on other devices or iOS versions.
+ **Known Issues**
+ • Brightness slider filler may glitch on expand/collapse and may be misaligned on iOS 15
+ • On iOS 15, Timer and Torch modules display incorrect fill behavior
+ Maintainer: therealhoodboy
+ Tested with iOS 15 – 16
 Author: therealhoodboy
 Name: CC26
 
-Package: com.dvntm.cc18
-Version: 0.0.2
+Package: com.cureux.cc26
+Version: 0.1.3b
 Architecture: iphoneos-arm
-Maintainer: dvntm
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
-Filename: ./com.dvntm.cc18_0.0.2_iphoneos-arm.deb
-Size: 4450
-MD5sum: f0902e8e008d2409413844aa54026fe4
-SHA1: 57372aaa58c0ef8df20247a7184df23e89e2bd38
-SHA256: ae3b8fe2b5bc55212ac985f5c35cf537f48de372c01a8aa5c1721390bb166f62
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_0.1.3b_iphoneos-arm.deb
+Size: 8244
+MD5sum: 4f5c6bf3194e6ba86750cee902959eb9
+SHA1: 26f15805764f807eceb46bb0cd39d7453d7eaa27
+SHA256: e2dab3ad37444d105b23eb0f2f6bb948e82bf2b3d97366e90b253ee96c0b9ec0
 Section: Tweaks
-Description: Round CC modules replication, like in iOS 18
-Author: dvntm
-Name: CC18
+Description: A sleek reimagination of Control Center
+ A sleek reimagination of Control Center – inspired by the refined aesthetics of iOS 26.
+ Rounded modules. Subtle depth. Effortlessly fluid.
+ **Beta Notice**
+ CC26 is currently in early beta. It was designed for and developed on iPhone X.
+ Some visual issues may occur on other devices or iOS versions.
+ **Known Issues**
+ • Brightness slider filler may glitch on expand/collapse and may be misaligned on iOS 15
+ • On iOS 15, Timer and Torch modules display incorrect fill behavior
+ Maintainer: therealhoodboy
+ Tested with iOS 15 – 16
+Author: therealhoodboy
+Name: CC26
 
 Package: com.dvntm.oledkeyboard
 Version: 0.0.3
@@ -53,7 +74,7 @@ Architecture: iphoneos-arm
 Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./com.dvntm.oledkeyboard_0.0.3_iphoneos-arm.deb
+Filename: ./debs/com.dvntm.oledkeyboard_0.0.3_iphoneos-arm.deb
 Size: 4530
 MD5sum: 3b48db14357f054369caed3c57fde697
 SHA1: af678df201e327fac34454c3b0fad1f61240364c
