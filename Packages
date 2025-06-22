@@ -68,6 +68,60 @@ Description: A sleek reimagination of Control Center
 Author: therealhoodboy
 Name: CC26
 
+Package: com.cureux.cc26
+Version: 0.2.5b
+Architecture: iphoneos-arm64
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_0.2.5b_iphoneos-arm64.deb
+Size: 8324
+MD5sum: 148c40f127dda001c9c7e7e735de7241
+SHA1: b4c2cb263c76b9c2017496cf9483de39575c3bb8
+SHA256: ed017a28240b09ac45d89f8bfe387fc119bbbd4225eca5de2c4d5d8cead53d21
+Section: Tweaks
+Description: A sleek reimagination of Control Center
+ Inspired by the refined aesthetics of iOS 26.
+ Rounded modules. Subtle depth. Effortlessly fluid.
+ **Beta Notice**
+ CC26 is currently in early beta. It was designed for and developed on iPhone X.
+ Some visual issues may occur on other devices or iOS versions.
+ **Known Issues**
+ • Brightness slider filler may glitch on expand/collapse and may be misaligned on iOS 15
+ • On iOS 15, Timer and Torch modules display incorrect fill behavior
+ Maintainer: therealhoodboy
+ Tested with iOS 15 – 16
+Author: therealhoodboy
+Name: CC26
+
+Package: com.cureux.cc26
+Version: 0.2.5b
+Architecture: iphoneos-arm
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_0.2.5b_iphoneos-arm.deb
+Size: 8248
+MD5sum: 60717934a415de75c9c220c40d676b41
+SHA1: 264cb9c7ae393d19a727e471307c4362625c551f
+SHA256: fe4b3f560288263aeed1967b85772f9c73a7a3794019ef9a8223aa8734cc239b
+Section: Tweaks
+Description: A sleek reimagination of Control Center
+ Inspired by the refined aesthetics of iOS 26.
+ Rounded modules. Subtle depth. Effortlessly fluid.
+ **Beta Notice**
+ CC26 is currently in early beta. It was designed for and developed on iPhone X.
+ Some visual issues may occur on other devices or iOS versions.
+ **Known Issues**
+ • Brightness slider filler may glitch on expand/collapse and may be misaligned on iOS 15
+ • On iOS 15, Timer and Torch modules display incorrect fill behavior
+ Maintainer: therealhoodboy
+ Tested with iOS 15 – 16
+Author: therealhoodboy
+Name: CC26
+
 Package: com.dvntm.oledkeyboard
 Version: 0.0.3
 Architecture: iphoneos-arm
