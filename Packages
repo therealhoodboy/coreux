@@ -192,3 +192,19 @@ Description: OLED Dark Mode for iOS System Keyboard
 Author: dvntm
 Name: OledKeyboard
 
+Package: com.ethanarbuckle.respringprogress
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Ethan Arbuckle
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs/com.ethanarbuckle.respringprogress_0.0.1-1+debug_iphoneos-arm.deb
+Size: 9344
+MD5sum: 0cd8d0047d594685e57798b1f0de90f0
+SHA1: b88609e4cffebbada86915ad895ec74dd27d2855
+SHA256: 24286d8028b9654effe905bec7eccdca208a7c4b4074e391bd81485c1936f8e3
+Section: Tweaks
+Description: Adds a progress bar under the Apple logo during resprings that tracks SpringBoards launch progress
+Author: Ethan Arbuckle
+Name: RespringProgress
+
