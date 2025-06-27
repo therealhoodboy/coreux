@@ -16,10 +16,10 @@ Name: NotificationsGroupCount
 
 Package: com.cureux.cc26
 Filename: ./debs/com.cureux.cc26_0.3.1b_iphoneos-arm.deb
-Size: 10974
-MD5sum: de615567324ba498f672266ca373ecc3
-SHA1: c13830b0713ce31a6c06fd053d30931001910ae0
-SHA256: aaed6bb2f05a8e046a5698ded09ff579e77aaa99b97f1b9457f8a9445bd4dd0d
+Size: 10968
+MD5sum: 7d0cbd71782991f38391847bcece2d71
+SHA1: 8da0e4b74aa86da28d2f06e04bf0703c049c5cbf
+SHA256: 696a540555b6476fc203873d1c83e65c744076af41571d3ab40bdcf7faf62d2a
 Description: A sleek reimagination of Control Center
  Inspired by the refined aesthetics of iOS 26.
  Rounded modules. Subtle depth. Effortlessly fluid.
@@ -27,10 +27,10 @@ Name: CC26
 
 Package: com.cureux.cc26
 Filename: ./debs/com.cureux.cc26_0.3.1b_iphoneos-arm64.deb
-Size: 11044
-MD5sum: bbbfefc36e4cf62f5e786ce4b94a1292
-SHA1: 479e30d37a74aab16d28585f5753a2ca57f11c15
-SHA256: 9e52b875eb077a959b7d6be7966dee317d1e9b3a9fd9e147382c10c33831fa49
+Size: 11048
+MD5sum: b6621661ad7b6e5f0ea673cf6e9546b1
+SHA1: 9049c3a9483c44fad632651f3514753c03523ca9
+SHA256: 43bc4cc6b69d9d9d3c5b8861bafa946edcdc70971b87974a9796e140611373c8
 Description: A sleek reimagination of Control Center
  Inspired by the refined aesthetics of iOS 26.
  Rounded modules. Subtle depth. Effortlessly fluid.
