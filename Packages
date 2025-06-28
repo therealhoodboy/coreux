@@ -15,25 +15,215 @@ Author: 0xkuj
 Name: NotificationsGroupCount
 
 Package: com.cureux.cc26
-Filename: ./debs/com.cureux.cc26_0.3.1b_iphoneos-arm.deb
-Size: 10968
-MD5sum: 7d0cbd71782991f38391847bcece2d71
-SHA1: 8da0e4b74aa86da28d2f06e04bf0703c049c5cbf
-SHA256: 696a540555b6476fc203873d1c83e65c744076af41571d3ab40bdcf7faf62d2a
+Version: 0.1.3b
+Architecture: iphoneos-arm64
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_0.1.3b_iphoneos-arm64.deb
+Size: 8338
+MD5sum: af1dd80d6522d22d4969731f9fdbf335
+SHA1: 237c9e33537fe8a9bd33d9ab77f2e91cc8b8e004
+SHA256: dc4df1b455a70e597e3a1b83a4143bb45e2c39fb5b12842ad84e5bfd9355d7a6
+Section: Tweaks
 Description: A sleek reimagination of Control Center
- Inspired by the refined aesthetics of iOS 26.
+ A sleek reimagination of Control Center – inspired by the refined aesthetics of iOS 26.
  Rounded modules. Subtle depth. Effortlessly fluid.
+ **Beta Notice**
+ CC26 is currently in early beta. It was designed for and developed on iPhone X.
+ Some visual issues may occur on other devices or iOS versions.
+ **Known Issues**
+ • Brightness slider filler may glitch on expand/collapse and may be misaligned on iOS 15
+ • On iOS 15, Timer and Torch modules display incorrect fill behavior
+ Maintainer: therealhoodboy
+ Tested with iOS 15 – 16
+Author: therealhoodboy
 Name: CC26
 
 Package: com.cureux.cc26
-Filename: ./debs/com.cureux.cc26_0.3.1b_iphoneos-arm64.deb
-Size: 11048
-MD5sum: b6621661ad7b6e5f0ea673cf6e9546b1
-SHA1: 9049c3a9483c44fad632651f3514753c03523ca9
-SHA256: 43bc4cc6b69d9d9d3c5b8861bafa946edcdc70971b87974a9796e140611373c8
+Version: 0.1.3b
+Architecture: iphoneos-arm
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_0.1.3b_iphoneos-arm.deb
+Size: 8244
+MD5sum: 4f5c6bf3194e6ba86750cee902959eb9
+SHA1: 26f15805764f807eceb46bb0cd39d7453d7eaa27
+SHA256: e2dab3ad37444d105b23eb0f2f6bb948e82bf2b3d97366e90b253ee96c0b9ec0
+Section: Tweaks
+Description: A sleek reimagination of Control Center
+ A sleek reimagination of Control Center – inspired by the refined aesthetics of iOS 26.
+ Rounded modules. Subtle depth. Effortlessly fluid.
+ **Beta Notice**
+ CC26 is currently in early beta. It was designed for and developed on iPhone X.
+ Some visual issues may occur on other devices or iOS versions.
+ **Known Issues**
+ • Brightness slider filler may glitch on expand/collapse and may be misaligned on iOS 15
+ • On iOS 15, Timer and Torch modules display incorrect fill behavior
+ Maintainer: therealhoodboy
+ Tested with iOS 15 – 16
+Author: therealhoodboy
+Name: CC26
+
+Package: com.cureux.cc26
+Version: 0.2.5b
+Architecture: iphoneos-arm64
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_0.2.5b_iphoneos-arm64.deb
+Size: 8324
+MD5sum: 148c40f127dda001c9c7e7e735de7241
+SHA1: b4c2cb263c76b9c2017496cf9483de39575c3bb8
+SHA256: ed017a28240b09ac45d89f8bfe387fc119bbbd4225eca5de2c4d5d8cead53d21
+Section: Tweaks
 Description: A sleek reimagination of Control Center
  Inspired by the refined aesthetics of iOS 26.
  Rounded modules. Subtle depth. Effortlessly fluid.
+ **Beta Notice**
+ CC26 is currently in early beta. It was designed for and developed on iPhone X.
+ Some visual issues may occur on other devices or iOS versions.
+ **Known Issues**
+ • Brightness slider filler may glitch on expand/collapse and may be misaligned on iOS 15
+ • On iOS 15, Timer and Torch modules display incorrect fill behavior
+ Maintainer: therealhoodboy
+ Tested with iOS 15 – 16
+Author: therealhoodboy
+Name: CC26
+
+Package: com.cureux.cc26
+Version: 0.2.5b
+Architecture: iphoneos-arm
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_0.2.5b_iphoneos-arm.deb
+Size: 8248
+MD5sum: 60717934a415de75c9c220c40d676b41
+SHA1: 264cb9c7ae393d19a727e471307c4362625c551f
+SHA256: fe4b3f560288263aeed1967b85772f9c73a7a3794019ef9a8223aa8734cc239b
+Section: Tweaks
+Description: A sleek reimagination of Control Center
+ Inspired by the refined aesthetics of iOS 26.
+ Rounded modules. Subtle depth. Effortlessly fluid.
+ **Beta Notice**
+ CC26 is currently in early beta. It was designed for and developed on iPhone X.
+ Some visual issues may occur on other devices or iOS versions.
+ **Known Issues**
+ • Brightness slider filler may glitch on expand/collapse and may be misaligned on iOS 15
+ • On iOS 15, Timer and Torch modules display incorrect fill behavior
+ Maintainer: therealhoodboy
+ Tested with iOS 15 – 16
+Author: therealhoodboy
+Name: CC26
+
+Package: com.cureux.cc26
+Version: 0.2.9b
+Architecture: iphoneos-arm
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_0.2.9b_iphoneos-arm.deb
+Size: 10954
+MD5sum: c276678be60498169475c227de546c64
+SHA1: d9b0de6102cf6d6d04a0b2504bc4a7fd147095ad
+SHA256: 8cf1cabdd9e06f1704d2970ee560a8b4600a13f2f273b37a56bb1db9e3d991ba
+Section: Tweaks
+Description: A sleek reimagination of Control Center
+ Inspired by the refined aesthetics of iOS 26.
+ Rounded modules. Subtle depth. Effortlessly fluid.
+ **Beta Notice**
+ CC26 is currently in early beta. It was designed for and developed on iPhone X.
+ Some visual issues may occur on other devices or iOS versions.
+ **Known Issues**
+ • Brightness slider filler may glitch on expand/collapse and may be misaligned on iOS 15
+ • On iOS 15, Timer and Torch modules display incorrect fill behavior
+ Maintainer: therealhoodboy
+ Tested with iOS 15 – 16
+Author: therealhoodboy
+Name: CC26
+
+Package: com.cureux.cc26
+Version: 0.2.9b
+Architecture: iphoneos-arm64
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_0.2.9b_iphoneos-arm64.deb
+Size: 11016
+MD5sum: f8f21752cd991ed4e552ca86d994417c
+SHA1: 1a1adaa726430e919d94d955c84a3286467bd14c
+SHA256: 6db3733623801f29086c00851ebb9ba2296d2b5aa04e4c14ab39067602ee51cb
+Section: Tweaks
+Description: A sleek reimagination of Control Center
+ Inspired by the refined aesthetics of iOS 26.
+ Rounded modules. Subtle depth. Effortlessly fluid.
+ **Beta Notice**
+ CC26 is currently in early beta. It was designed for and developed on iPhone X.
+ Some visual issues may occur on other devices or iOS versions.
+ **Known Issues**
+ • Brightness slider filler may glitch on expand/collapse and may be misaligned on iOS 15
+ • On iOS 15, Timer and Torch modules display incorrect fill behavior
+ Maintainer: therealhoodboy
+ Tested with iOS 15 – 16
+Author: therealhoodboy
+Name: CC26
+
+Package: com.cureux.cc26
+Version: 0.3.3b
+Architecture: iphoneos-arm64
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_0.3.3b_iphoneos-arm64.deb
+Size: 10528
+MD5sum: c6027af64209f13ad776128cea6a8b95
+SHA1: a0a155d14bdbfe5b223e552570453567910609ac
+SHA256: c150655c40a5cab8cd6065c50150240a029711c8493ba74ab38616d5f6672ba3
+Section: Tweaks
+Description: A sleek reimagination of Control Center
+ Inspired by the refined aesthetics of iOS 26.
+ Rounded modules. Subtle depth. Effortlessly fluid.
+ **Beta Notice**
+ CC26 is currently in early beta. It was designed for and developed on iPhone X.
+ Some visual issues may occur on other devices or iOS versions.
+ **Known Issues**
+ • Brightness slider filler may glitch on expand/collapse and may be misaligned on iOS 15
+ • On iOS 15, Timer and Torch modules display incorrect fill behavior
+Author: therealhoodboy
+Name: CC26
+
+Package: com.cureux.cc26
+Version: 0.3.3b
+Architecture: iphoneos-arm
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_0.3.3b_iphoneos-arm.deb
+Size: 10450
+MD5sum: ffbe222a5d245fd97bcc40a64720cd1f
+SHA1: 8de1b9746afccd81dad8a8a6d584878a8c771fc9
+SHA256: 2d0cca222b0deaef6517187f17e990e84d026ef386630cf606a0b861f4fdc287
+Section: Tweaks
+Description: A sleek reimagination of Control Center
+ Inspired by the refined aesthetics of iOS 26.
+ Rounded modules. Subtle depth. Effortlessly fluid.
+ **Beta Notice**
+ CC26 is currently in early beta. It was designed for and developed on iPhone X.
+ Some visual issues may occur on other devices or iOS versions.
+ **Known Issues**
+ • Brightness slider filler may glitch on expand/collapse and may be misaligned on iOS 15
+ • On iOS 15, Timer and Torch modules display incorrect fill behavior
+Author: therealhoodboy
 Name: CC26
 
 Package: com.dvntm.oledkeyboard
