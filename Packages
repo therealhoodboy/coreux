@@ -758,6 +758,44 @@ Author: therealhoodboy
 Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
 Name: CC26
 
+Package: com.cureux.cc26
+Version: 0.4.9.9b
+Architecture: iphoneos-arm64
+Maintainer: therealhoodboy
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_0.4.9.9b_iphoneos-arm64.deb
+Size: 23520
+MD5sum: 6a2a3147478202cddac4b012256a34db
+SHA1: b6c768ce4e8ae1245680ea1b13a5a469161b7c34
+SHA256: 623067fc505bb419fc3edb6400fcaa1f186f1937b7bcd0b46ad01037a8c56be8
+Section: Tweaks
+Description: A sleek reimagination of Control Center.
+Author: therealhoodboy
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+Name: CC26
+
+Package: com.cureux.cc26
+Version: 0.4.9.9b
+Architecture: iphoneos-arm
+Maintainer: therealhoodboy
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_0.4.9.9b_iphoneos-arm.deb
+Size: 23422
+MD5sum: 00ef9e9ba8c9b68c7940595d18919994
+SHA1: 2b52b9813078e3570bccb5bf13dbbfda1cb13241
+SHA256: dc06e6504a4c590b84598673a9b55c23ccf9372ffa2ceca14730db0aa5bd2607
+Section: Tweaks
+Description: A sleek reimagination of Control Center.
+Author: therealhoodboy
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+Name: CC26
+
 Package: com.dvntm.oledkeyboard
 Version: 0.0.3
 Architecture: iphoneos-arm
