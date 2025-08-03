@@ -31,6 +31,23 @@ Description: Modern swipe view
 Author: therealhoodboy
 Name: RoundSwipe
 
+Package: com.coreux.roundswipe
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: therealhoodboy
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Provides: com.coreux.roundswipe
+Filename: ./debs/com.coreux.roundswipe_1.0.0_iphoneos-arm64.deb
+Size: 3876
+MD5sum: 8061835e0ebbcc734d987d00ed8ebf2b
+SHA1: 5dc30c0f4a586916b8e31c7df5d2b0d0ed59ccfa
+SHA256: 745225119f1631d5eb032952defef39d7dfd6a2fa584445e8c1020be12296095
+Section: Tweaks
+Description: Modern swipe view
+Author: therealhoodboy
+Name: RoundSwipe
+
 Package: com.cureux.cc26
 Version: 0.1.3b
 Architecture: iphoneos-arm64
