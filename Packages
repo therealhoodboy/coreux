@@ -14,6 +14,23 @@ Description: Count those notifications inside Apple notifications grouping!
 Author: 0xkuj
 Name: NotificationsGroupCount
 
+Package: com.coreux.roundswipe
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: therealhoodboy
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Provides: com.coreux.roundswipe
+Filename: ./debs/com.coreux.roundswipe_1.0.0_iphoneos-arm.deb
+Size: 3768
+MD5sum: b58c448809703bb9c3232b394f9d4204
+SHA1: 5c842392dc5d9768e72c3715b1cc110a62c4adda
+SHA256: ab6469f20db67992e2039c2959298c7aaa6c299fb7d9a00c3897703f1e97353e
+Section: Tweaks
+Description: Modern swipe view
+Author: therealhoodboy
+Name: RoundSwipe
+
 Package: com.cureux.cc26
 Version: 0.1.3b
 Architecture: iphoneos-arm64
