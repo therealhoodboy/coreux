@@ -14,6 +14,40 @@ Description: Count those notifications inside Apple notifications grouping!
 Author: 0xkuj
 Name: NotificationsGroupCount
 
+Package: com.coreux.roundmusic
+Version: 1.0.0b1
+Architecture: iphoneos-arm64
+Maintainer: therealhoodboy
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), firmware (<< 18.0)
+Provides: com.coreux.roundmusic
+Filename: ./debs/com.coreux.roundmusic_1.0.0b1_iphoneos-arm64.deb
+Size: 7226
+MD5sum: 39b39cddfff46ac7bcb4c2b82631a67b
+SHA1: 5f217a7fefbc88bbfb1163f75a195e7db8994185
+SHA256: 408b3318fee1572b5cc251c175fd31d2b9dd59a98c289631f4b05794f2bb1499
+Section: Tweaks
+Description: Modern AppleMusic, early beta.
+Author: therealhoodboy
+Name: RoundMusic
+
+Package: com.coreux.roundmusic
+Version: 1.0.0b1
+Architecture: iphoneos-arm
+Maintainer: therealhoodboy
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), firmware (<< 18.0)
+Provides: com.coreux.roundmusic
+Filename: ./debs/com.coreux.roundmusic_1.0.0b1_iphoneos-arm.deb
+Size: 7140
+MD5sum: 946adf0e609cd63447f2fa1612cdfb7e
+SHA1: b2ba4ff13bbe64af38352d110b550196c3ffe32a
+SHA256: 144effea6761309f50061ad8284a62b1e4682f9a163803ce82cfaffacec14f33
+Section: Tweaks
+Description: Modern AppleMusic, early beta.
+Author: therealhoodboy
+Name: RoundMusic
+
 Package: com.coreux.roundswipe
 Version: 1.0.0
 Architecture: iphoneos-arm
