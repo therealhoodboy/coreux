@@ -947,3 +947,41 @@ Description: Adds a progress bar under the Apple logo during resprings that trac
 Author: Ethan Arbuckle
 Name: RespringProgress
 
+Package: com.cureux.cc26
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: therealhoodboy
+Installed-Size: 1152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_1.0_iphoneos-arm.deb
+Size: 819480
+MD5sum: ee36a4d2b2ce5851b9ca9a6ca779e472
+SHA1: 0e3339dbea59e9bef7af7f7580150be7c466a732
+SHA256: 26da94b25dfdf9dcea66d6e8c25370034369082b1ead245a95a00c75f21e37ca
+Section: Tweaks
+Description: A sleek reimagination of Control Center.
+Author: therealhoodboy
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+Name: CC26
+
+Package: com.cureux.cc26
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: therealhoodboy
+Installed-Size: 1152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.cureux.cc26_1.0_iphoneos-arm64.deb
+Size: 819342
+MD5sum: 389646e2d15b7dae2fe7a389f4a9700e
+SHA1: 3c48f575181c9ca6a18b12063a5acaf04aaceaf5
+SHA256: ce1cc08caf4d54233de84596fed8ad1d6a111569e8454248cf28b88b81603cac
+Section: Tweaks
+Description: A sleek reimagination of Control Center.
+Author: therealhoodboy
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+Name: CC26
+
