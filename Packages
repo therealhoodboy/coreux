@@ -985,3 +985,50 @@ Author: therealhoodboy
 Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
 Name: CC26
 
+Package: com.localdev.encoreinfinitum
+Name: EncoreInfinitum
+Description: Delivers iOS 18 EncoreInfinitum and iOS 26 EncoreRemix ringtones, alert tones, vibrations, and resources to iOS 15
+Maintainer: LocalDev
+Author: LocalDev
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Architecture: iphoneos-arm
+Version: 4.0.0-1+debug
+Installed-Size: 28320
+Filename: ./debs/EncoreInfinitum-rootful-arm64.deb
+Size: 28580028
+MD5sum: eb5e84a4631ce35bc04d75efbcc1e242
+SHA1: f64f22256fc7113e2cc35a16aaf000836c86345a
+SHA256: 80cc1ed221cdbc20dcee19ef309a06150f780b1d01d951eb466fffabee73d55e
+
+Package: com.localdev.encoreinfinitum
+Name: EncoreInfinitum
+Description: Delivers iOS 18 EncoreInfinitum and iOS 26 EncoreRemix ringtones, alert tones, vibrations, and resources to iOS 15
+Maintainer: LocalDev
+Author: LocalDev
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 4.0.0-1+debug
+Installed-Size: 28320
+Filename: ./debs/EncoreInfinitum-rootless-arm64.deb
+Size: 28580142
+MD5sum: 79689296f0f37be9fcc0ce004f5cfecb
+SHA1: f3601189aecc5cd534c9809362a562fdc7cad6da
+SHA256: ac3edb58326ce8d83567d8ce8d71ea7df859855a23213e69e8448a0d7da4a6b5
+
+Package: com.localdev.encoreinfinitum
+Name: EncoreInfinitum
+Description: Delivers iOS 18 EncoreInfinitum and iOS 26 EncoreRemix ringtones, alert tones, vibrations, and resources to iOS 15
+Maintainer: LocalDev
+Author: LocalDev
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 4.0.0-1+debug
+Installed-Size: 28320
+Filename: ./debs/EncoreInfinitum-rootless-arm64e.deb
+Size: 28580118
+MD5sum: 33a9c35beb11a1cacfb20ee600fc145c
+SHA1: 31a8889ad749a5c3e93af476393089424f4f0fe5
+SHA256: 710f566f0aa73e16567ef99d67f7cd4b1bb1679720474f69ad8e744817bf0828
