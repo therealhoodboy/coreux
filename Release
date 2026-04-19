@@ -7,11 +7,11 @@ Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: A curated collection of high-quality tweaks designed to seamlessly extend iOS with thoughtful, stock-like enhancements. Clean. Useful. Native-feeling.
 MD5Sum:
- 941018be2ba29134d5004b12af737b69 49162 Packages
- 8cc12bec36737705717c1b59ccd94b7a 8644 Packages.gz
+ 29ff0714e0836c80ed61f546a65482ed 51806 Packages
+ 4bec4dbccab0f38f821e75eb2c61a8b3 9048 Packages.gz
 SHA1:
- f86728e9a573d03424819de2eadb68cb3dd5c7fd 49162 Packages
- da596d13e9db5d9ffd531d28141a56aef0e6386e 8644 Packages.gz
+ f3d658f97d4b5b7a6b7a53486de0e939d087258e 51806 Packages
+ 853a145df7b06ca38a06a086a78451ad949de8f5 9048 Packages.gz
 SHA256:
- 9ac490d97040a685d7018deb79cf25aab66b8d3c9dd7b4271f72e00b5f2b610e 49162 Packages
- dd06dcd62a5d2d46b6f23a7f85c14a85a1edc30e120346a911e67ac7a53c0adc 8644 Packages.gz
+ 1939eb8431eb7a722414888d066fe51b9ed079207515da9bc9c5e89db0435a99 51806 Packages
+ 7aea02a2248db74c4bae59205de4e55d075c9e27df1700ba9bb266e2015c5362 9048 Packages.gz
