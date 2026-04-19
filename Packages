@@ -1242,3 +1242,73 @@ Size: 838364
 MD5sum: 1899d27bc66c76d659393471b907de75
 SHA1: ed5210e63bdfcdbe0253d25a9072a117fe2673ea
 SHA256: 9b5431737f6786bdf50678e2565aa6df0a1c27b939509707b0e004600884887b
+
+Package: com.cureux.cc26
+Name: CC26
+Description: A sleek reimagination of Control Center.
+Maintainer: therealhoodboy
+Author: therealhoodboy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+Architecture: iphoneos-arm
+Version: 1.0.5
+Installed-Size: 1496
+Filename: ./debs/com.cureux.cc26_1.0.5_iphoneos-arm.deb
+Size: 838758
+MD5sum: 7fca95e8086b15a7420c0cffbf03f775
+SHA1: bcbc70dabc9997644761225dbaf117c2f3d478da
+SHA256: 6bc5e00ac6ce1578646081c9d2b63d113856c3d7b7a70ad04982d638990bd19f
+
+Package: com.cureux.cc26
+Name: CC26
+Description: A sleek reimagination of Control Center.
+Maintainer: therealhoodboy
+Author: therealhoodboy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Installed-Size: 1496
+Filename: ./debs/com.cureux.cc26_1.0.5_iphoneos-arm64.deb
+Size: 838678
+MD5sum: 120023bdd4e69cae463a3031f1bddb22
+SHA1: 1952399479e92db24e502c465d69de96f988c7d4
+SHA256: d4c113cfd7445835f0858f82035c46f9d12ac7284efd84a5ae2d92e03773120d
+
+Package: com.cureux.cc26glass
+Name: CC26 Liquid Glass
+Description: iOS 26-style liquid glass effect for Control Center modules.
+Maintainer: therealhoodboy
+Author: therealhoodboy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0), firmware (<< 18.0)
+Architecture: iphoneos-arm
+Version: 1.0.3
+Installed-Size: 256
+Filename: ./debs/com.cureux.cc26glass_1.0.3_iphoneos-arm.deb
+Size: 30558
+MD5sum: 60f6fe9a7bc64c10f6f78b750e042497
+SHA1: e2474521387dc2053b2d4d8b601cad9eedfaf123
+SHA256: f008ade3cc47cacd980dbb57a284aeb3a16ecae782cc106fa669b72fa5e06c81
+
+Package: com.cureux.cc26glass
+Name: CC26 Liquid Glass
+Description: iOS 26-style liquid glass effect for Control Center modules.
+Maintainer: therealhoodboy
+Author: therealhoodboy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0), firmware (<< 18.0)
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Installed-Size: 256
+Filename: ./debs/com.cureux.cc26glass_1.0.3_iphoneos-arm64.deb
+Size: 30750
+MD5sum: 9237f316c7f743f8d797f455dcf2a8d8
+SHA1: 5f2d0af0aa13068b094dfece37c2c2cac938a30c
+SHA256: 48cfd145f244d9dc5953b2cbb1dcc45805573f237d5d8fd05d1bd4b6c90637f7
